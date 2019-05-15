@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     name='strategy',
     version='0.1',
-    packages=[''],
+    packages=['strategy'],
     url='',
     license='MIT',
     author='jloscalzo',
