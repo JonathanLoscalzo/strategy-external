@@ -1,0 +1,3 @@
+bottle
+#git+https://github.com/JonathanLoscalzo/strategy-external.git@master#egg=strategy
+git+ssh://git@gitlab.com/loscalzo.jony/strategy-external.git#egg=strategy
